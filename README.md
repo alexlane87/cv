@@ -1,5 +1,7 @@
 # Alex Lane - SIP Engineer, Operations Tech and Dev-in-training
 
+**Email: alexlane87@outlook.com**
+
 ## Intro
 I am a Bristol-based dynamic tech professional with a "can-do" attitude who is happy to turn his hand to any challenge - in fact, fixing problems and helping people as part of a complex technial challenge are what I look for most in a job!
 
