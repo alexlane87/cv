@@ -131,6 +131,8 @@ _May 2010-February 2014_
 - React
 - Python
 - PHP
+- Laravel
+- CoffeeScript
 
 ### Databases
 
@@ -147,7 +149,7 @@ _May 2010-February 2014_
 - Bash scripting
 - Managing services
 - Using queues (Beanstalk etc)
-- Basic operations (File access & management, SSH keys)
+- Operations (File access & management, SSH keys)
 - Grep with extensive regex experience  
 
 ### Server/Infrastructure
@@ -166,6 +168,7 @@ _May 2010-February 2014_
 - Fail2Ban
 - iptables
 - DNS Management (A, MX, SRV records)
+- Arista, Brocade, Miktrotik, Unifi configuration
 
 ### PBXs/Telephony
 
