@@ -3,10 +3,10 @@
 **Email: alexlane87@outlook.com**
 
 ## Intro
-I am a Bristol-based dynamic tech professional with a "can-do" attitude who is happy to turn his hand to any challenge - in fact, fixing problems and helping people as part of a complex technial challenge are what I look for most in a job!
+I am a Bristol-based dynamic tech professional with a "can-do" attitude who is happy to turn his hand to any challenge - in fact, fixing problems and helping people as part of a complex technical challenge are what I look for most in a job!
 
 ## Personal
-I am a single parent and my teenage daughters keep me somewhat busy outside of work. While I am not working or looking after my girls, I like to play board games, video games, paint miniatures and make things (3d printing and carpentry are 2020/2021s most recent hobby additions).
+I am a single parent and my teenage children keep me somewhat busy outside of work. While I am not working or looking after my girls, I like to play board games, video games, paint miniatures and make things (3d printing and carpentry are the most recent hobby additions).
 
 I am also passionate about educating and have volunteered at a local school teaching programming/web development.
 
@@ -20,17 +20,17 @@ My most recent position in Simwood has seen me move to our Technology team, work
 
 #### Responsibilities include:
  - Dev-Ops - Maintaining Docker containers on bare-metal hosts and within the cloud. Provisioning Infrastructure using Serverless, Helm, Docker-compose.
- - Full-stack Dev - Writing React, NodeJS, Python, CoffeeScript and PHP/Laravel in production. This involved some major projects and implementing major features into poduction. Code was commited and maintained in GitLab utilising CI/CD techniques
+ - Full-stack Dev - Writing React, NodeJS, Python, CoffeeScript and PHP/Laravel in production. This involved some major projects and implementing major features into poduction. Code was committed and maintained in GitLab utilising CI/CD techniques
  - Support Escalation - Troubleshooting complex code and SIP issues 
  - Training - Delivering training in person and via produced videos for internal staff
  - Infrastructure - Travelling to Datacentres, installing fibre cross connects and new servers. Configuring and setting up new bare-metal servers
  - Networking - Network diagnosis and configuration (including Unifi, Mikrotik, Arista and Brocade), including delivering a new office network for our Bristol location 
 
 #### Projects/Major Achievements
-
- - I spearheaded writing a NodeJS application to provision desk phones for our customers. This involved writing a templating engine interacting with multiple APIs alongside a front-facing Restful API that our customers can use to create new phone and extension associations. 
+ - I have designed and created a fully dockerised NodeJS application that automatically makes test calls (using SIPp) and interacts with multiple databases and external APIs. 
+ - I spearheaded writing a NodeJS application to provision desk phones for our customers. This involved writing a templating engine interacting with multiple APIs alongside a front-facing Restful API that our customers can use to create new phone and extension associations all self-documented in Swagger.
  - Myself and a colleague orchestrated a site-refresh of one of our primary datacentres. This involved stripping old and rebuilding with new a rack of servers and networking equipment alongside integration into a newly provisioned dark fibre ring. 
- - I have trained multiple junior Engineers.
+ - I have trained multiple Engineers.
  - I have created a number of Python helper scripts to solve complex problems.
 
 **Ops Level 2**
@@ -52,7 +52,7 @@ Working for a well respected wholesale telephony provider, I provide support for
 
 - I solved a longstanding escalated customer ticket by using grep and pcre regex to parse complex ISUP/SS7 traces/log files to search for commonalities and hardware faults
 - To populate data and prevent _hours_ of manual entry, I created a nodejs script to parse data from a CRM (Hubspot) and then create customers in Zendesk (Ticketing system)
-- To automate the uploading of Phone Book entries for customers, I created a JSExpress mini-site to allow uploading of CSVs to create them - ssaving internal resource and improving our customer service 
+- To automate the uploading of Phone Book entries for customers, I created a JSExpress mini-site to allow uploading of CSVs to create them - saving internal resource and improving our customer service 
 - I helped with the rapid introduction of automatically scaling and load-balancing Kamailio/Asterisk instances in a commercial environment (moving from bare-metal to EC2 on AWS)
 
 ----------------
@@ -197,10 +197,3 @@ _May 2010-February 2014_
 - Documentation management
 - JIRA/Confluence
 - System/process flows (including using Visio/MS Project/Gliffy)
-
-## Sample Personal Projects
-
-I have worked on lots of little projects, a couple of examples include:
-
-- A React (Material-UI) mini-site for internal tooling including user management (with sections being only visible with certain access levels which would set states), encrypted token management and a typeahead autocomplete
-- A PHP script for pushing JSON WebHooks to a SQL database
